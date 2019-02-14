@@ -38,3 +38,4 @@
     ```java
     new RCTMGLPackage()
     ```
+6. signup to mapbox.com & get your acces token !
